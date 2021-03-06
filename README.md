@@ -14,7 +14,7 @@ This purpose of this project is to determine what fundraising goals would most l
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](path/to/TOutcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
